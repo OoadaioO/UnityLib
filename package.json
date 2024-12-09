@@ -1,16 +1,17 @@
 {
     "name": "com.xb.lib",
+    "displayName": "xb lib",
     "version": "1.0.0",
-    "displayName": "xb lib ",
     "description": "A custom package for Unity projects.",
-    "unity": "6.0.0",
+    "unity": "2022.3",
+    "documentationUrl": "https://github.com/OoadaioO/UnityLib",
     "author": {
-      "name": "boxu",
-      "email": "bworkid@gmail.com"
+        "name": "boxu",
+        "email": "bworkid@gmail.com"
     },
+    "dependencies": {},
     "repository": {
-      "type": "git",
-      "url": "git@github.com:OoadaioO/UnityLib.git"
+        "type": "git",
+        "url": "git@github.com:OoadaioO/UnityLib.git"
     }
-  }
-  
+}
