@@ -1,0 +1,16 @@
+{
+    "name": "com.xb.lib",
+    "version": "1.0.0",
+    "displayName": "xb lib ",
+    "description": "A custom package for Unity projects.",
+    "unity": "6.0.0",
+    "author": {
+      "name": "boxu",
+      "email": "bworkid@gmail.com"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git@github.com:OoadaioO/UnityLib.git"
+    }
+  }
+  
